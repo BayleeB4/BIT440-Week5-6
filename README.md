@@ -1,4 +1,4 @@
-# Week5
+# Week5 & 6
 - Complete steps 3, 4, and 5 of the Angular.io tour of heroes tutorial
 
 - Upload entire project as a single repository to Github using the CLI using the following snippets:
